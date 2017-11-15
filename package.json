@@ -4,8 +4,12 @@
   "version": "1.2.0",
   "license": "MIT",
   "author": "https://github.com/sebastien-p",
-  "contributors": ["https://github.com/known-as-bmf"],
-  "keywords": ["angular"],
+  "contributors": [
+    "https://github.com/known-as-bmf"
+  ],
+  "keywords": [
+    "angular"
+  ],
   "homepage": "https://github.com/sebastien-p/angular-release-name-generator#readme",
   "repository": {
     "type": "git",
@@ -27,6 +31,7 @@
     "clipboardy": "1.2.1",
     "datamuse": "1.0.5",
     "giphy-api": "1.2.7",
+    "got": "^7.1.0",
     "lodash": "4.17.4",
     "semver": "5.4.1"
   },
